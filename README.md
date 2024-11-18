@@ -1,4 +1,4 @@
 # OWASPGit
-OWASP NIE's GIt Event
+OWASP NIE's Git Event
 
 Making some changes...
